@@ -93,23 +93,11 @@ This project showcases my early programming abilities, including my dedication a
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Turbo C/C++</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.cprogramming.com/tutorial/c-tutorial.html">C language</a></li>
+    <li><a href="https://cplusplus.com/doc/tutorial/">Cplusplus language</a></li>
+    <li><a href="https://home.cs.colorado.edu/~main/bgi/doc/">Borland Graphics</a></li>
   </ul>
 </details>
 
