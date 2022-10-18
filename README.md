@@ -193,17 +193,17 @@ I would like to thank...
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **How I can run this project ?**
 
-  - [Answer_1]
+  - Please open the project in Turbo C/C++ 16-bit software and change the graphics path and then it will run.
 
-- **[Question_2]**
+- **Does this project contain code for building the `TAJ MAHAL` using borland graphics ?**
 
-  - [Answer_2]
+  - YES
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
