@@ -44,7 +44,7 @@ For more information on the importance of a professional README for your reposit
   <img src=".png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b> README Template</b></h3>
+  <h3><b>Employee Management System</b></h3>
 
 </div>
 
@@ -74,11 +74,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Employee Management System <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Employee Management System** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
