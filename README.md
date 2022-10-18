@@ -78,7 +78,13 @@ For more information on the importance of a professional README for your reposit
 
 > Describe your project in 1 or 2 sentences.
 
-**Employee Management System** is a...
+**Employee Management System** is a project developed in C/C++ using Borland Graphics for the user interface (UI) with the assistance of Turbo C/C++ Windows software. Created in 2017 as my first project and using C/C++ as my initial programming language, this system incorporates CRUD (Create, Read, Update, Delete) operations for efficient employee management.
+
+The system boasts visually appealing and user-friendly graphics, demonstrating my proficiency in graphical design. As a test of my graphic skills, I included a "Taj Mahal" design using Borland Graphics as a Thank You page, enhancing the project's aesthetic appeal.
+
+To ensure data security, the project features a robust security barrier, safeguarding sensitive employee information from unauthorized access. The system provides a comprehensive set of functionalities, enabling users to create, view, update, and delete employee records with ease.
+
+This project showcases my early programming abilities, including my dedication and hard work in delivering a fully functional Employee Management System with an intuitive UI, impressive graphics, and necessary security measures.
 
 ## 🛠 Built With <a name="built-with"></a>
 
