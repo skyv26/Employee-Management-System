@@ -107,9 +107,9 @@ This project showcases my early programming abilities, including my dedication a
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Clean UI graphics**
+- **Security Enabled**
+- **Beautiful Graphics with borland**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
