@@ -70,12 +70,11 @@ This project showcases my early programming abilities, including my dedication a
 
 ### Video Presentation <a name="video-presentation"></a>
 
-<figure class="video_container">
- <video controls="true" allowfullscreen="true">
- <source src="./employee-management-system.mkv" type="video/mp4">
- </video>
+<figure>
+  <video controls="true" allowfullscreen="true">
+      <source src="https://user-images.githubusercontent.com/66476329/248505804-3dff336a-7fb8-4fa8-8b28-dae941136415.mp4" typ`e="video/mkv">
+  </video>
 </figure>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
