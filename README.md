@@ -88,14 +88,12 @@ OOPS concepts with borland graphics knowledge to understand the functionality an
 
 Clone this repository to your desired folder:
 
-<!--
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd DESIRED_FOLDER
+  git clone git@github.com:skyv26/Employee-Management-System.git
 ```
---->
 
 ### Install
 
