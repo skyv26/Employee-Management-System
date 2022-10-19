@@ -81,16 +81,9 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
+In order to run this project you need to have a strong understand of `C/C++` with good foundation in
+OOPS concepts with borland graphics knowledge to understand the functionality and final thing is Turbo C/C++ 16-bit software should be on your system to work and check the output.
+ 
 ### Setup
 
 Clone this repository to your desired folder:
