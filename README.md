@@ -48,8 +48,6 @@ This project showcases my early programming abilities, including my dedication a
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Turbo C/C++</summary>
   <ul>
@@ -63,8 +61,6 @@ This project showcases my early programming abilities, including my dedication a
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Clean UI graphics**
 - **Security Enabled**
 - **Beautiful Graphics with borland**
@@ -74,8 +70,6 @@ This project showcases my early programming abilities, including my dedication a
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -108,8 +102,6 @@ To run the project, execute the compile button first and then run button on Turb
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Aakash Verma**
 
 - GitHub: [@skyv26](https://github.com/skyv26)
@@ -123,8 +115,6 @@ To run the project, execute the compile button first and then run button on Turb
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Fix the UI for the project**
 - [ ] **Add keyboard and mouse event**
@@ -146,8 +136,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please give a star to support my project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -156,8 +144,6 @@ If you like this project please give a star to support my project.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank my Tutor Mr. Puneet Agarwal
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -165,8 +151,6 @@ I would like to thank my Tutor Mr. Puneet Agarwal
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **How I can run this project ?**
 
