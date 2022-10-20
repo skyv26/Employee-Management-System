@@ -97,28 +97,12 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Please make sure that you have the correct environment in order to run this project.
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+To run the project, execute the compile button first and then run button on Turbo C/C++ ide to see the output using DOS-BOX.
 
 <!-- AUTHORS -->
 
