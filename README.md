@@ -35,8 +35,6 @@
 
 # 📖 Employee Management System <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Employee Management System** is a project developed in C/C++ using Borland Graphics for the user interface (UI) with the assistance of Turbo C/C++ Windows software. Created in 2017 as my first project and using C/C++ as my initial programming language, this system incorporates CRUD (Create, Read, Update, Delete) operations for efficient employee management.
 
 The system boasts visually appealing and user-friendly graphics, demonstrating my proficiency in graphical design. As a test of my graphic skills, I included a "Taj Mahal" design using Borland Graphics as a Thank You page, enhancing the project's aesthetic appeal.
