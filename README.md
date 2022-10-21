@@ -17,6 +17,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Video Presentation](#video-presentation)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -66,6 +67,14 @@ This project showcases my early programming abilities, including my dedication a
 - **Beautiful Graphics with borland**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Video Presentation <a name="video-presentation"></a>
+
+<figure class="video_container">
+ <video controls="true" allowfullscreen="true">
+ <source src="./employee-management-system.mkv" type="video/mp4">
+ </video>
+</figure>
 
 <!-- GETTING STARTED -->
 
