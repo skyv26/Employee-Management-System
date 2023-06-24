@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="./image.png" alt="logo" width="140"  height="auto" />
   <br/>
 
@@ -68,11 +67,7 @@ This project showcases my early programming abilities, including my dedication a
 
 ### Video Presentation <a name="video-presentation"></a>
 
-<figure>
-  <video controls="true" allowfullscreen="true">
-      <source src="https://user-images.githubusercontent.com/66476329/248505804-3dff336a-7fb8-4fa8-8b28-dae941136415.mp4" typ`e="video/mkv">
-  </video>
-</figure>
+https://user-images.githubusercontent.com/66476329/248505804-3dff336a-7fb8-4fa8-8b28-dae941136415.mp4
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -81,8 +76,8 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need to have a strong understand of `C/C++` with good foundation in
-OOPS concepts with borland graphics knowledge to understand the functionality and final thing is Turbo C/C++ 16-bit software should be on your system to work and check the output.
+In order to run this project you need to have a strong understanding of `C/C++` with a good foundation in
+OOPS concepts with Borland graphics knowledge to understand the functionality and the final thing is Turbo C/C++ 16-bit software should be on your system to work and check the output.
  
 ### Setup
 
@@ -102,7 +97,7 @@ Please make sure that you have the correct environment in order to run this proj
 
 ### Usage
 
-To run the project, execute the compile button first and then run button on Turbo C/C++ ide to see the output using DOS-BOX.
+To run the project, execute the compile button first and then run the button on Turbo C/C++ ide to see the output using DOS-BOX.
 
 <!-- AUTHORS -->
 
