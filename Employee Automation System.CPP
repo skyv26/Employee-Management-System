@@ -557,13 +557,6 @@
 	}
 	}
 
-/////////////////////////////////////////////////////////////////////////////////////
-	void led1()
-	{
-
-	}
-////////////////////////////////////////////////////////////////////////////////////////
-
 	void main()
 	{
 	int x=0,y=0,z,u,o,le=50;
@@ -663,32 +656,6 @@
 	 delay(3000);
 	 exit(0);
 	 }
-    /*	if (flag==1 && c==3)
-	 {
-	  delay(2000);
-	 exit(0);
-	 }
-	 if(flag==1 && c==2)
-	 {
-	 outtextxy(220,420,"You Have 1 Attempt !");
-	 c++;
-	 delay(3000);
-	 goto dubara;
-	 }
-	 if(flag==1 && c==1)
-	 {
-	 outtextxy(220,420,"You Have 2 Attempt !");
-	 c++;
-	 delay(3000);
-	 goto dubara;
-	 }
-	 else//(flag==1 && c==0)
-	 {
-	 outtextxy(220,420,"You Have 3 Attempt !");
-	 c++;
-	 delay(3000);
-	 goto dubara;
-	 } */
 	if(x4==52)
 	{
 	cleardevice();
